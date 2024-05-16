@@ -1,4 +1,4 @@
-local url = "https://raw.githubusercontent.com/CYROCLORIC/mijnkraftdiepeduik/main/chest_monitor.lua"
+local url = "https://raw.githubusercontent.com/D3ATHSH0T1453/DEEPDIVE-/main/chest_monitor.lua"
 local chestMonitor = "chest_monitor.lua"
 shell.run("wget", url, chestMonitor)
 
