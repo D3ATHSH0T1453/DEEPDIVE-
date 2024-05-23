@@ -13,9 +13,9 @@
 
 ### Stap 4️⃣: Installeer de Software 🌐
 6. **Open de terminal op je computer** en voer het volgende commando uit:
-   ```shell
+```
    wget run https://raw.githubusercontent.com/D3ATHSH0T1453/DEEPDIVE-/main/install.lua
 ```
 
 ### Stap 5️⃣: Laatste Handelingen 🛠️
-7. **Herstart de computer.** Zodra deze opnieuw opstart, zie je de inhoud van de kist weergegeven op de monitor! 🎉👀
+7. **Herstart de computer.** Zodra deze opnieuw opstart, zie je de inhoud van de kist weergegeven op de monitor! 🎉👀 
