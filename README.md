@@ -15,7 +15,6 @@
 6. **Open de terminal op je computer** en voer het volgende commando uit:
    ```shell
    wget run INSTALL.LUA LINK HIER
-```
 
 ### Stap 5️⃣: Laatste Handelingen 🛠️
 7. **Herstart de computer.** Zodra deze opnieuw opstart, zie je de inhoud van de kist weergegeven op de monitor!
